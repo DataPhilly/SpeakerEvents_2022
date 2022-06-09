@@ -13,7 +13,7 @@
   * **May 2022 - Overview of Big Data Tools**
   * Speaker: Alex Antonison
   * In the world of data, there are a wide variety of tools for processing, managing, and analyzing data. When getting started, it can be overwhelming to know what tools are available and what tools to use. In this presentation, Alex Antonison will step through his approach around selecting tools as well as providing a high level overview of the most common data tools he uses in building scalable data applications.
-  * Slides
+  * [Slides](https://docs.google.com/presentation/d/1VFzRmNI7essY6A5vRldiTcZQ-oDXorBB6kfVsEXUWQE/edit)
 
   * [Video Recording of Event](https://www.youtube.com/watch?v=UixN0WmRaEg)
   * **May 2022 - Linux Deep Dive for Data Science**

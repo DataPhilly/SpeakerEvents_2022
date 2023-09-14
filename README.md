@@ -22,12 +22,12 @@
   * [Slides](https://docs.google.com/presentation/d/1zAXdiWQrVcLqbaLpXbf8crYZvZk9h1twp96HPWosLg0/edit?usp=sharing)
 
 ### June 2022
-  * **Speaker Topic #2 - Data Science & Deep Learning**
+  * [Video Recording of Event](https://www.youtube.com/watch?v=8y1p6uBHWVs&t=1030s)
+  * **Speaker Topic #1 - Data Science & Deep Learning**
   * Speaker: Vishnu Bashyam
   * As a data scientist, working in medicine offers the opportunity to work on interesting and impactful problems. As deep learning has revolutionized computer vision and natural language processing, the use of deep learning-based computer vision techniques has exploded in medical imaging research. Particularly in neuro-imaging, these techniques are expected to enable a new paradigm of precision medicine and patient access. This talk will cover some of the domain knowledge needed to get started in the field, the active areas of research, the common deep learning techniques used, the common pitfalls, and more.
 
-  * [Video Recording of Event](https://www.youtube.com/watch?v=8y1p6uBHWVs&t=1030s)
-  * **Speaker Topic #1 - Data Science & Canadian Elections**
+  * **Speaker Topic #2 - Data Science & Canadian Elections**
   * Speaker: Kevin H. Shu
   * The last two Canadian federal elections have resulted in a situation where the party that wins the most seats (and forms government) does not have a plurality of the popular vote. This has renewed calls for change away from the First-Past-The-Post (FPTP) system. This talk aims to examine hypothetical federal results over time if FPTP were changed to two party-list based forms of Proportional Representation at the regional or provincial level.
   * [Project GitHub Repo](https://github.com/FAE-Sonata/Elections_Regional_PR)

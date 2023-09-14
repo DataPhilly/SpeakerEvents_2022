@@ -22,7 +22,7 @@
   * [Slides](https://docs.google.com/presentation/d/1zAXdiWQrVcLqbaLpXbf8crYZvZk9h1twp96HPWosLg0/edit?usp=sharing)
 
 ### June 2022
-  * **Speaker Topic #1 - Data Science & Deep Learning**
+  * **Speaker Topic #2 - Data Science & Deep Learning**
   * Speaker: Vishnu Bashyam
   * As a data scientist, working in medicine offers the opportunity to work on interesting and impactful problems. As deep learning has revolutionized computer vision and natural language processing, the use of deep learning-based computer vision techniques has exploded in medical imaging research. Particularly in neuro-imaging, these techniques are expected to enable a new paradigm of precision medicine and patient access. This talk will cover some of the domain knowledge needed to get started in the field, the active areas of research, the common deep learning techniques used, the common pitfalls, and more.
 
